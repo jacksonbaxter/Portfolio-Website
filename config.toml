@@ -1,0 +1,22 @@
+baseURL = "https://jacksonbaxter.xyz/"
+languageCode = "en-us"
+title = "Jackson Baxter"
+theme = "github-style"
+
+[params]
+  author = "Jackson Baxter"
+  description = "In solitude, where we are least alone."
+  github = "jacksonbaxter"
+  linkedin = "jackson-baxter"
+  email = "jackson@jacksonbaxter.xyz"
+  location = "Provo, Utah"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
