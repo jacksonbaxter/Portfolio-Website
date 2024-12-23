@@ -1,15 +1,21 @@
-baseURL = "https://jacksonbaxter.xyz/"
+baseURL = "https://jacksonbaxter.xyz"
 languageCode = "en-us"
 title = "Jackson Baxter"
 theme = "github-style"
 
 [params]
   author = "Jackson Baxter"
-  description = "In solitude, where we are least alone."
+  description = "BYU Data Science"
   github = "jacksonbaxter"
   linkedin = "jackson-baxter"
   email = "jackson@jacksonbaxter.xyz"
   location = "Provo, Utah"
+  url = "https://jacksonbaxter.xyz"
+  rss = true
+  lastmod = true
+  avatar = "/images/avatar.jpg"
+  headerIcon = "/images/avatar.jpg"
+  favicon = "/images/avatar.jpg"
 
 [menu]
   [[menu.main]]
