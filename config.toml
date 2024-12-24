@@ -1,4 +1,4 @@
-baseURL = "https://jacksonbaxter.xyz"
+baseURL = "https://jacksonbaxter.xyz/"
 languageCode = "en-us"
 title = "Jackson Baxter"
 theme = "github-style"
