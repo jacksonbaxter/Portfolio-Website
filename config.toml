@@ -16,6 +16,7 @@ theme = "github-style"
   avatar = "/images/avatar.jpg"
   headerIcon = "/images/github-mark-white.png"
   favicon = "/images/avatar.jpg"
+  enableSearch = true
 
 [menu]
   [[menu.main]]
@@ -26,3 +27,11 @@ theme = "github-style"
     name = "About"
     url = "/about/"
     weight = 2
+
+[outputs]
+  home = ["html", "json"]
+
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = false
