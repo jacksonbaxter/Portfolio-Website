@@ -1,3 +1,12 @@
+---
+title: "LLM to SQL Group Project"
+date: 2025-01-07
+draft: false
+pin: true
+categories: ["Projects"]
+tags: ["SQL", "Database", "AI"]
+---
+
 Here is the source code and post for my LLM to SQL group project for a Database class.
 
 https://github.com/pined1/LLM_SQL
