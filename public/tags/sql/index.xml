@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SQL on Jackson Baxter</title><link>https://jacksonbaxter.xyz/tags/sql/</link><description>Recent content in SQL on Jackson Baxter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jacksonbaxter.xyz/tags/sql/index.xml" rel="self" type="application/rss+xml"/><item><title>LLM to SQL Group Project</title><link>https://jacksonbaxter.xyz/post/llm-sql/llm-sql/</link><pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate><guid>https://jacksonbaxter.xyz/post/llm-sql/llm-sql/</guid><description>Here is the source code and post for my LLM to SQL group project for a Database class.
+https://github.com/pined1/LLM_SQL
+Natural Language SQL Project Purpose of the Database My database models vendor and product data for a marketplace application, which includes vendors, their products, customer ratings, and orders.
+Schema Query I thought it did well on Question: Which vendors have the highest rating?
+GPT SQL Response:
+SELECT Vendors.VendorID, Vendors.VendorName, MAX(Ratings.RatingValue) as MaxRating FROM Vendors INNER JOIN Ratings ON Vendors.</description></item></channel></rss>
