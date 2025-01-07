@@ -20,7 +20,7 @@ My database models vendor and product data for a marketplace application, which 
 
 ### Schema
 
-![Schema](schema.png)
+![Schema](images/schema.png)
 
 ---
 
