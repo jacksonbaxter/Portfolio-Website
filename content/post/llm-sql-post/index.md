@@ -20,7 +20,7 @@ My database models vendor and product data for a marketplace application, which 
 
 ### Schema
 
-![Schema](images/schema.png)
+![Schema](/post/llm-sql-post/images/schema.png)
 
 ---
 
