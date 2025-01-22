@@ -1,4 +1,4 @@
-# Portfolio-Website
+# Portfolio Website
 
 ## Usage
 Edit ```config.toml``` to change basic home page information.
